@@ -16,14 +16,10 @@ public class Constants {
     public static final String SIGNATURE = "SIGNATURE";
     public static final String AUTHORIZATION = "AUTHORIZATION";
 
-    public static final String CLIENT_ID = "IKIAF6C068791F465D2A2AA1A3FE88343B9951BAC9C3";   //IKIAF6C068791F465D2A2AA1A3FE88343B9951BAC9C3
-    public static final String CLIENT_SECRET = "FTbMeBD7MtkGBQJw1XoM74NaikuPL13Sxko1zb0DMjI=";  //FTbMeBD7MtkGBQJw1XoM74NaikuPL13Sxko1zb0DMjI=
-
-    //For Prod
+    public static final String CLIENT_ID = {ClientID} // replace with your clientID or test clientID
+    public static final String CLIENT_SECRET = {{clientSecret}} // Replace with your clinet Secret
  //"QTMOBILE1WALSIS"
-     //webpay
-    //private static final String CLIENT_ID =	"IKIAB4BF2CFC5621D9F07D0F1830B8A715026E4ADBF1";
-    //private static final String CLIENT_SECRET = "/5pY1ezAhYZUtwnxLGWCc2AZlTMsDthJ4CgRgmXhVus=";
+     
 
     public static final String  SCHEME = "webpay"; //"webpay"; //"EPG";
     public static final String  CHANNEL = "quicktellermobile";
